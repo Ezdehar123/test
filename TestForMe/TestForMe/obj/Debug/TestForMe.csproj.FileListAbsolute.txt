@@ -1,0 +1,8 @@
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\bin\Debug\TestForMe.exe.config
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\bin\Debug\TestForMe.exe
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\bin\Debug\TestForMe.pdb
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\obj\Debug\TestForMe.csproj.AssemblyReference.cache
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\obj\Debug\TestForMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\obj\Debug\TestForMe.csproj.CoreCompileInputs.cache
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\obj\Debug\TestForMe.exe
+C:\Users\Akkij\source\repos\TestForMe\TestForMe\obj\Debug\TestForMe.pdb
